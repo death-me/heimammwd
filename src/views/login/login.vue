@@ -350,8 +350,7 @@ export default {
       }
     }
   }
-  .login-pic {
-  }
+  
   // 对话框
   .el-dialog {
     width: 603px;
